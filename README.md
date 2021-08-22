@@ -1,8 +1,9 @@
 ### Hi there, I am Alessio Quercia 👋
-I am a PhD student in Computer Science focusing on Deep Learning and Transfer Learning.
+I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <details>
-  <summary markdown="span">Click here to read a summary of my previous activities:</summary>
+  <summary markdown="span">Summary of my previous activities:</summary>
+  
   - Research Fellow in the Department of Computer Science at Sapienza University of Rome.
   - Research Intern in the Smart Systems Integration group at IBM Research Zurich.
   - Master of Science in Computer Science at University of Milan.
