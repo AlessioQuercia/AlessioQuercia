@@ -1,4 +1,5 @@
-## Hi there, I am Alessio Quercia 👋
+<h1 align="center"> Hi there, I am Alessio Quercia 👋 </h1>
+
 I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <details>
@@ -13,8 +14,15 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 
 </details>
 
-## Github Stats
-![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+<h2 align="center"> Github Stats </h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+  </a>
+</div>
+
+<!-- ![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical)](https://git.io/streak-stats) -->
 
@@ -28,7 +36,12 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 <details>
   <summary markdown="span">Fancy contribution graph</summary>
 
-![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+</div>
+<!-- ![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg) -->
 
 </details>
 <!--
