@@ -14,11 +14,21 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 </details>
 
 ## Github Stats
+![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical)](https://git.io/streak-stats) -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" width="45%" height="45%" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical" width="45%" height="45%" />
+</a> -->
 
 <details>
   <summary markdown="span">Fancy contribution graph</summary>
 
-![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 <!--
