@@ -1,8 +1,8 @@
-### Hi there, I am Alessio Quercia 👋
+## Hi there, I am Alessio Quercia 👋
 I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <details>
-  <summary markdown="span">Short summary of my previous activities:</summary>
+  <summary markdown="span">Short summary of my previous activities</summary>
 
 | Position        | Location                                                 | Activity                                                     |
 | :-------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
@@ -13,6 +13,14 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 
 </details>
 
+## Github Stats
+
+<details>
+  <summary markdown="span">Fancy contribution graph</summary>
+
+![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.gif)
+
+</details>
 <!--
 **AlessioQuercia/AlessioQuercia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
