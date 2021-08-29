@@ -1,5 +1,14 @@
 <h1 align="center"> Hi there, I am Alessio Quercia 👋 </h1>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)
+
+<!-- <div align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
+  </a>
+</div> -->
+
+
 I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <details>
@@ -26,12 +35,8 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical)](https://git.io/streak-stats) -->
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" width="45%" height="45%" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical" width="45%" height="45%" />
-</a> -->
+<!-- [![AlessioQuercia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <details>
   <summary markdown="span">Fancy contribution graph</summary>
