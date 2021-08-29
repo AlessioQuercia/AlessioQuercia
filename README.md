@@ -30,11 +30,21 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
     <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
   </a>
 </div>
-
 <!-- ![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical) -->
 
+<!-- <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical" />
+  </a>
+</div> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlessioQuercia&theme=radical)](https://git.io/streak-stats) -->
 
+
+<!-- <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc" />
+  </a>
+</div> -->
 <!-- [![AlessioQuercia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
