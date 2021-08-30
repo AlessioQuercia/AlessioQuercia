@@ -42,7 +42,7 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 
 <!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc&theme=radical&layout=compact" />
   </a>
 </div> -->
 <!-- [![AlessioQuercia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc)](https://github.com/anuraghazra/github-readme-stats) -->
