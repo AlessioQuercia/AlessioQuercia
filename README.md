@@ -1,15 +1,30 @@
 <h1 align="center"> Hi there, I am Alessio Quercia 👋 </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)
+<div align="center">
+  
+  <object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>
+  <a href="https://linkedin.com/in/AlessioQuercia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/Alessio15065378">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/channels/@me/172462295346184194">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:alessioquercia4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+
+I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <!-- <div align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
   </a>
 </div> -->
-
-
-I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
 
 <details>
   <summary markdown="span">Short summary of my previous activities</summary>
