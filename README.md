@@ -27,7 +27,7 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 </div> -->
 
 <details>
-  <summary markdown="span">Short summary of my previous activities</summary>
+  <summary markdown="span">Short summary of my previous research activities</summary>
 
 | Position        | Location                                                 | Activity                                                     |
 | :-------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
@@ -36,6 +36,22 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
 | MSc Student     | Dept. of Computer Science at University of Milan         | Thesis on epileptic seizure prediction using deep unsupervised learning |
 | BSc Student     | Dept. of Computer Science at Sapienza University of Rome | Thesis on neuroevolution and reinforcement learning          |
 
+</details>
+
+
+
+<details>
+  <summary markdown="span">Short CV</summary>
+  
+  ## Experience
+  - [05.2021 - Current] > Research Assistant at Forschungszentrum Jülich
+  - [10.2020 - 05.2021] > Research Fellow at Sapienza University of Rome and WSense S.r.l.
+  - [09.2019 - 07.2021] > Research Intern at IBM Research Zurich
+  - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
+  ## Education
+  - [05.2021 - Current] > PhD in Computer Science at RWTH Aachen and Forschungszentrum Jülich
+  - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
+  - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
 </details>
 
 <h2 align="center"> Github Stats </h2>
