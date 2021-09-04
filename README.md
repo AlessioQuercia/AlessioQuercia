@@ -12,7 +12,7 @@
   <a href="https://twitter.com/Alessio15065378">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   </a>
-  <a href="https://discordapp.com/channels/@me/172462295346184194">
+  <a href="https://discord.gg/3tZH6CCXe3">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
   </a>
   <a href="mailto:alessioquercia4@gmail.com">
@@ -20,6 +20,9 @@
   </a>
 </div>
 
+<!--   <a href="https://discordapp.com/channels/@me/172462295346184194">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
+  </a> -->
 
 I am currently a PhD student in Computer Science at RWTH Aachen and Forschungszentrum Jülich with focus on Deep Learning, Computer Vision and Transfer Learning. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark.
 
