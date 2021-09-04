@@ -3,6 +3,9 @@
 <div align="center">
   
   <object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>
+  <a href="https://alessioquercia.github.io">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
+  </a>
   <a href="https://linkedin.com/in/AlessioQuercia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
@@ -18,7 +21,7 @@
 </div>
 
 
-I am currently a PhD student in Computer Science in the Institute for Advanced Simulations at Forschungszentrum Jülich, Germany. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark, and I am focusing on Deep Learning and Transfer Learning.
+I am currently a PhD student in Computer Science at RWTH Aachen and Forschungszentrum Jülich with focus on Deep Learning, Computer Vision and Transfer Learning. I am supervised by Prof. Ira Assent, from the Department of Computer Science at Aarhus University, Denmark.
 
 <!-- <div align="center"> 
   <a href="https://git.io/typing-svg">
@@ -44,14 +47,38 @@ I am currently a PhD student in Computer Science in the Institute for Advanced S
   <summary markdown="span">Short CV</summary>
   
   ## Experience
+<!--   <details>
+    <summary markdown="span">[05.2021 - Current] > Research Assistant at Forschungszentrum Jülich</summary>
+      Transfer learning.
+  </details>
+  <details>
+    <summary markdown="span">[10.2020 - 05.2021] > Research Fellow at Sapienza University of Rome and WSense S.r.l.</summary>
+      Risk forecasting in aquaculture using deep learning techniques.
+  </details>
+  <details>
+    <summary markdown="span">[09.2019 - 07.2021] > Research Intern at IBM Research Zurich</summary>
+      Epileptic seizure prediction using deep unsupervised learning techniques.
+  </details>
+  <details>
+    <summary markdown="span">[10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan</summary>
+      Teaching Computer Science Basics to groups of up to 60 undergraduates in laboratory lessons.
+  </details> -->
   - [05.2021 - Current] > Research Assistant at Forschungszentrum Jülich
   - [10.2020 - 05.2021] > Research Fellow at Sapienza University of Rome and WSense S.r.l.
   - [09.2019 - 07.2021] > Research Intern at IBM Research Zurich
   - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
+  
   ## Education
   - [05.2021 - Current] > PhD in Computer Science at RWTH Aachen and Forschungszentrum Jülich
   - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
   - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
+</details>
+
+<details>
+  <summary markdown="span">Publications</summary>
+  
+  - Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA. Accepted (2021).
+  
 </details>
 
 <h2 align="center"> Github Stats </h2>
