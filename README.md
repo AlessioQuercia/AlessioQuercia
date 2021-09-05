@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/AlessioQuercia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/Alessio15065378">
+  <a href="https://twitter.com/ale_qrc">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
   </a>
   <a href="https://discord.gg/3tZH6CCXe3">
