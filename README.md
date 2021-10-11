@@ -23,16 +23,16 @@
 <!--   <a href="https://discordapp.com/channels/@me/172462295346184194">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
   </a> -->
+  
+<div align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
+  </a>
+</div>
 
 I am a PhD Student in Computer Science at RWTH Aachen University and a Research Assistant in Machine Learning and Data Analytics at Forschungszentrum Jülich. I am jointly supervised by Prof. Ira Assent, from the Dept. of Computer Science at Aarhus University, and Prof. Hanno Scharr, from the Dept. of Computer Science at RWTH Aachen University. 
 
 My research interests include Deep Learning, Transfer Learning, Meta-Learning, Representation Learning, Reinforcement Learning, and Neuroevolution. In general, I am interested in Computer Vision applications to real-world problems. Currently, my focus is on Transfer Learning applied to medical problems. 
-
-<!-- <div align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
-  </a>
-</div> -->
 
 <details>
   <summary markdown="span">Short summary of my previous research activities</summary>
