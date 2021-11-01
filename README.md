@@ -82,7 +82,7 @@ My research interests include Deep Learning, Transfer Learning, Meta-Learning, R
 <details>
   <summary markdown="span">Publications</summary>
   
-  - Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA. Accepted (2021).
+  - Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021).
   
 </details>
 
