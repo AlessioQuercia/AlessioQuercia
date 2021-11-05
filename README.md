@@ -32,7 +32,7 @@
 
 I am a PhD Student in Computer Science at RWTH Aachen University and a Research Assistant in Machine Learning and Data Analytics at Forschungszentrum Jülich. I am jointly supervised by Prof. Ira Assent, from the Dept. of Computer Science at Aarhus University, and Prof. Hanno Scharr, from the Dept. of Computer Science at RWTH Aachen University. 
 
-My research interests include Deep Learning, Transfer Learning, Meta-Learning, Representation Learning, Reinforcement Learning, and Neuroevolution. In general, I am interested in Computer Vision applications to real-world problems. Currently, my focus is on Transfer Learning applied to medical problems. 
+My research interests include Deep Learning, Transfer Learning, Few-Shot Learning, Self-Supervised, Meta-Learning, Representation Learning, Reinforcement Learning, and Neuroevolution. In general, I am interested in Computer Vision applications to real-world problems. Currently, my focus is on Transfer Learning applied to medical problems. 
 
 <details>
   <summary markdown="span">Short summary of my previous research activities</summary>
