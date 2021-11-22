@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I am Alessio Quercia 👋 </h1>
+<h1 align="center"> Hi there 👋, I am Alessio Quercia </h1>
 
 <div align="center">
   
@@ -82,7 +82,7 @@ My research interests include Deep Learning, Transfer Learning, Few-Shot Learnin
 <details>
   <summary markdown="span">Publications</summary>
   
-  - [Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021)](https://www.computer.org/csdl/proceedings-article/icdh/2021/168500a142/1ymJeKYN1qU).
+  - [Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021)](https://ieeexplore.ieee.org/abstract/document/9581248).
   
 </details>
 
