@@ -30,16 +30,19 @@
   </a>
 </div>
 
-I am a PhD Student in Computer Science at RWTH Aachen University and a Research Assistant in Machine Learning and Data Analytics at Forschungszentrum Jülich. I am jointly supervised by Prof. Ira Assent, from the Dept. of Computer Science at Aarhus University, and Prof. Hanno Scharr, from the Dept. of Computer Science at RWTH Aachen University. 
+I am a Ph.D. Student in Computer Science at RWTH Aachen University and in Machine Learning and Data Analytics Institute at Forschungszentrum Jülich. I am jointly supervised by Prof. Ira Assent, Dr. Hanno Scharr and Prof. Abigail Morrison. 
 
-My research interests include Deep Learning, Transfer Learning, Few-Shot Learning, Self-Supervised, Meta-Learning, Representation Learning, Reinforcement Learning, and Neuroevolution. In general, I am interested in Computer Vision applications to real-world problems. Currently, my focus is on Transfer Learning applied to medical problems. 
+My current research interests include Data Efficient Learning, Transfer Learning, Multi-Task Learning, Multi-Modal Learning, Few-Shot Learning, Self-Supervised Learning, Representation Learning. In general, I am interested in Computer Vision applications to real-world problems.
+
+My previous research interests include Reinforcement Learning and Neuroevolution.
 
 <details>
   <summary markdown="span">Short summary of my previous research activities</summary>
 
 | Position        | Location                                                 | Activity                                                     |
 | :-------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
-| Research Fellow | Dept. of Computer Science at Sapienza University of Rome | Risk forecasting in aquaculture using deep learning techniques |
+| Ph.D. Student   | Dept. of Computer Science at RWTH Aachen University & Forschungszentrum Jülich | Data Efficient Learning, Transfer Learning and Multi-Task Learning for Computer Vision applications |
+| Research Fellow | Dept. of Computer Science at Sapienza University of Rome & WSense s.r.l. | Risk forecasting in aquaculture using deep learning techniques |
 | Research Intern | Smart Systems Integration group at IBM Research Zurich   | Epileptic seizure prediction using deep unsupervised learning techniques |
 | MSc Student     | Dept. of Computer Science at University of Milan         | Thesis on epileptic seizure prediction using deep unsupervised learning |
 | BSc Student     | Dept. of Computer Science at Sapienza University of Rome | Thesis on neuroevolution and reinforcement learning          |
@@ -74,14 +77,15 @@ My research interests include Deep Learning, Transfer Learning, Few-Shot Learnin
   - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
   
   ## Education
-  - [05.2021 - Current] > PhD in Computer Science at RWTH Aachen University
+  - [05.2021 - Current] > PhD in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
   - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
   - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
 </details>
 
 <details>
   <summary markdown="span">Publications</summary>
-  
+
+  - Quercia A., Morrison A., Scharr H., Assent I.: _"SGD Biased towards Early Important Samples for Efficient Training"_. In: IEEE International Conference on Data Mining. On Proceedings. IEEE, Shanghai, China (2023).
   - [Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021)](https://ieeexplore.ieee.org/abstract/document/9581248).
   
 </details>
@@ -90,7 +94,8 @@ My research interests include Deep Learning, Transfer Learning, Few-Shot Learnin
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" /> -->
+    <img src="https://github-readme-stats-alessio-quercias-projects.vercel.app/api?username=AlessioQuercia&include_all_commits=false&show_icons=true&theme=radical" />
   </a>
 </div>
 <!-- ![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical) -->
@@ -110,7 +115,7 @@ My research interests include Deep Learning, Transfer Learning, Few-Shot Learnin
 </div> -->
 <!-- [![AlessioQuercia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleqrc)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<!--
 <details>
   <summary markdown="span">Fancy contribution graph</summary>
 
@@ -119,9 +124,11 @@ My research interests include Deep Learning, Transfer Learning, Few-Shot Learnin
     <img src="https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg" />
   </a>
 </div>
+</details> 
 <!-- ![snake gif](https://github.com/AlessioQuercia/AlessioQuercia/blob/output/github-contribution-grid-snake.svg) -->
 
-</details>
+
+
 <!--
 **AlessioQuercia/AlessioQuercia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
