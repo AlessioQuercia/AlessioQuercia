@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>
+  <!--<object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>-->
   <a href="https://alessioquercia.github.io">
     <img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
   </a>
@@ -42,10 +42,10 @@ My previous research interests include Reinforcement Learning and Neuroevolution
 | Position        | Location                                                 | Activity                                                     |
 | :-------------- | :------------------------------------------------------- | :----------------------------------------------------------- |
 | Ph.D. Student   | Dept. of Computer Science at RWTH Aachen University & Forschungszentrum Jülich | Data Efficient Learning, Transfer Learning and Multi-Task Learning for Computer Vision applications |
-| Research Fellow | Dept. of Computer Science at Sapienza University of Rome & WSense s.r.l. | Risk forecasting in aquaculture using deep learning techniques |
+| Ph.D. Student   | Dept. of Computer Science at Sapienza University of Rome & WSense s.r.l. | Risk forecasting in aquaculture using deep learning techniques |
 | Research Intern | Smart Systems Integration group at IBM Research Zurich   | Epileptic seizure prediction using deep unsupervised learning techniques |
-| MSc Student     | Dept. of Computer Science at University of Milan         | Thesis on epileptic seizure prediction using deep unsupervised learning |
-| BSc Student     | Dept. of Computer Science at Sapienza University of Rome | Thesis on neuroevolution and reinforcement learning          |
+| MSc Student     | Dept. of Computer Science at University of Milan         | Master Thesis on epileptic seizure prediction using deep unsupervised learning |
+| BSc Student     | Dept. of Computer Science at Sapienza University of Rome | Bachelor Thesis on neuroevolution and reinforcement learning          |
 
 </details>
 
@@ -72,12 +72,12 @@ My previous research interests include Reinforcement Learning and Neuroevolution
       Teaching Computer Science Basics to groups of up to 60 undergraduates in laboratory lessons.
   </details> -->
   - [05.2021 - Current] > Research Assistant at Forschungszentrum Jülich
-  - [10.2020 - 05.2021] > Research Fellow at Sapienza University of Rome and WSense S.r.l.
+  - [10.2020 - 05.2021] > Ph.D Candidate at Sapienza University of Rome and Research Assistant at WSense S.r.l.
   - [09.2019 - 07.2021] > Research Intern at IBM Research Zurich
   - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
   
   ## Education
-  - [05.2021 - Current] > PhD in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
+  - [05.2021 - Current] > Ph.D. in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
   - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
   - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
 </details>
@@ -90,14 +90,16 @@ My previous research interests include Reinforcement Learning and Neuroevolution
   
 </details>
 
+<!--
 <h2 align="center"> Github Stats </h2>
 
 <div align="center">
   <a href="https://github-readme-stats-bice-beta-91.vercel.app">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" /> 
     <img src="https://github-readme-stats-bice-beta-91.vercel.app/api?username=AlessioQuercia&include_all_commits=true&show_icons=true&theme=radical" />
   </a>
 </div>
+-->
 <!-- ![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical) -->
 
 <!-- <div align="center">
