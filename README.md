@@ -93,9 +93,9 @@ My previous research interests include Reinforcement Learning and Neuroevolution
 <h2 align="center"> Github Stats </h2>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats-bice-beta-91.vercel.app">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical" /> -->
-    <img src="https://github-readme-stats-alessio-quercias-projects.vercel.app/api?username=AlessioQuercia&include_all_commits=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats-bice-beta-91.vercel.app/api?username=AlessioQuercia&include_all_commits=true&show_icons=true&theme=radical" />
   </a>
 </div>
 <!-- ![AlessioQuercia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessioQuercia&include_all_commits=true&count_private=true&show_icons=true&theme=radical) -->
