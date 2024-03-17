@@ -1,41 +1,41 @@
-<h1 align="center"> Hi there 👋, I am Alessio Quercia </h1>
+<h1 align="center"> Alessio Quercia </h1>
 
 <div align="center">
   
   <!--<object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>-->
-  <a href="https://alessioquercia.github.io">
+  <!--<a href="https://alessioquercia.github.io">
     <img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
-  </a>
+  </a>-->
   <a href="https://linkedin.com/in/AlessioQuercia">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/ale_qrc">
+  <!--<a href="https://twitter.com/ale_qrc">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://discord.gg/3tZH6CCXe3">
+  </a>-->
+  <!--<a href="https://discord.gg/3tZH6CCXe3">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:alessioquercia4@gmail.com">
+  </a>-->
+  <!--<a href="mailto:alessioquercia4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
+  </a>-->
 </div>
 
 <!--   <a href="https://discordapp.com/channels/@me/172462295346184194">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white">
   </a> -->
   
-<div align="center"> 
+<!--<div align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
   </a>
-</div>
+</div>-->
 
-I am a Ph.D. Student in Computer Science at RWTH Aachen University and in Machine Learning and Data Analytics Institute at Forschungszentrum Jülich. I am jointly supervised by Prof. Ira Assent, Dr. Hanno Scharr and Prof. Abigail Morrison. 
+I am a Ph.D. Candidate in Computer Science at RWTH Aachen University and at the Machine Learning and Data Analytics Institute (IAS-8) at Forschungszentrum Jülich. I am supervised by Prof. Ira Assent, Dr. Hanno Scharr and Prof. Abigail Morrison. 
 
-My current research interests include Data Efficient Learning, Transfer Learning, Multi-Task Learning, Multi-Modal Learning, Few-Shot Learning, Self-Supervised Learning, Representation Learning. In general, I am interested in Computer Vision applications to real-world problems.
+My current research interests include Data Efficient Learning, Transfer Learning, Multi-Task Learning, Multi-Modal Learning. In general, I am interested in Computer Vision applications to real-world problems.
 
-My previous research interests include Reinforcement Learning and Neuroevolution.
-
+<!--My previous research interests include Reinforcement Learning and Neuroevolution. -->
+<!--
 <details>
   <summary markdown="span">Short summary of my previous research activities</summary>
 
@@ -48,6 +48,7 @@ My previous research interests include Reinforcement Learning and Neuroevolution
 | BSc Student     | Dept. of Computer Science at Sapienza University of Rome | Bachelor Thesis on neuroevolution and reinforcement learning          |
 
 </details>
+-->
 
 
 
@@ -71,13 +72,12 @@ My previous research interests include Reinforcement Learning and Neuroevolution
     <summary markdown="span">[10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan</summary>
       Teaching Computer Science Basics to groups of up to 60 undergraduates in laboratory lessons.
   </details> -->
-  - [05.2021 - Current] > Research Assistant at Forschungszentrum Jülich
-  - [10.2020 - 05.2021] > Ph.D Candidate at Sapienza University of Rome and Research Assistant at WSense S.r.l.
   - [09.2019 - 07.2021] > Research Intern at IBM Research Zurich
   - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
   
   ## Education
   - [05.2021 - Current] > Ph.D. in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
+  - [10.2020 - 05.2021] > Ph.D Candidate at Sapienza University of Rome and Research Assistant at WSense S.r.l.
   - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
   - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
 </details>
@@ -85,7 +85,7 @@ My previous research interests include Reinforcement Learning and Neuroevolution
 <details>
   <summary markdown="span">Publications</summary>
 
-  - Quercia A., Morrison A., Scharr H., Assent I.: _"SGD Biased towards Early Important Samples for Efficient Training"_. In: IEEE International Conference on Data Mining. On Proceedings. IEEE, Shanghai, China (2023).
+  - [Quercia A., Morrison A., Scharr H., Assent I.: _"SGD Biased towards Early Important Samples for Efficient Training"_. In: IEEE International Conference on Data Mining. On Proceedings. IEEE, Shanghai, China (2023)](https://ieeexplore.ieee.org/abstract/document/10415731/).
   - [Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021)](https://ieeexplore.ieee.org/abstract/document/9581248).
   
 </details>
