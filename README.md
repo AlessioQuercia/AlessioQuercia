@@ -1,7 +1,9 @@
 <h1 align="center"> Alessio Quercia </h1>
 
 <div align="center">
-  
+  <!--<a href="https://alessioquercia.github.io">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+  </a>-->
   <!--<object>![visitors](https://visitor-badge.glitch.me/badge?page_id=AlessioQuercia.visitor-badge)</object>-->
   <!--<a href="https://alessioquercia.github.io">
     <img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=Firefox-Browser&logoColor=white">
@@ -84,6 +86,8 @@ My current research interests include Data Efficient Learning, Transfer Learning
 
 <details>
   <summary markdown="span">Publications</summary>
+
+  [Google Scholar](https://scholar.google.it/citations?user=CPfJjQgAAAAJ)
 
   - [Quercia A., Morrison A., Scharr H., Assent I.: _"SGD Biased towards Early Important Samples for Efficient Training"_. In: IEEE International Conference on Data Mining. On Proceedings. IEEE, Shanghai, China (2023)](https://ieeexplore.ieee.org/abstract/document/10415731/).
   - [Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: _"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_. In: IEEE International Conference on Digital Health. On Proceedings. IEEE, Chicago, USA (2021)](https://ieeexplore.ieee.org/abstract/document/9581248).
