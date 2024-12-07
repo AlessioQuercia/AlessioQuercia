@@ -89,7 +89,7 @@ My current research interests include Data Efficient Learning, Transfer Learning
 
   [Google Scholar](https://scholar.google.it/citations?user=CPfJjQgAAAAJ)
   
-  - Quercia A.\*, Yildiz E., Cao Z., Krajsek K., Morrison A., Assent I., Scharr H.: [_"Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks"_](). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
+  - Quercia A., Yildiz E., Cao Z., Krajsek K., Morrison A., Assent I., Scharr H.: [_"Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks"_](). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
   - Bangun A.\*, Cao Z.\*, Quercia A.\*, Scharr H., Pfaehler E.: [_"MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)"_](). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
   - Paul D.R.\*, Quercia A.\*, Fortuin V., Nöh K., Scharr H.: [_"Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation"_](). In: _European Conference on Computer Vision **(ECCV)**_. On Proceedings. IEEE, Milan, Italy (2024).
   - Quercia A., Morrison A., Scharr H., Assent I.: [_"SGD Biased towards Early Important Samples for Efficient Training"_](https://ieeexplore.ieee.org/abstract/document/10415731/). In: _IEEE International Conference on Data Mining **(ICDM)**_. On Proceedings. IEEE, Shanghai, China (2023).
