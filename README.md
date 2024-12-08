@@ -32,7 +32,7 @@
   </a>
 </div>-->
 
-I am a Ph.D. Candidate in Computer Science at RWTH Aachen University and at the Machine Learning and Data Analytics Institute (IAS-8) at Forschungszentrum Jülich. I am supervised by Prof. Ira Assent, Dr. Hanno Scharr and Prof. Abigail Morrison. 
+I am a Ph.D. Candidate in Computer Science at RWTH Aachen University and at the Machine Learning and Data Analytics Institute (IAS-8) at Forschungszentrum Jülich. I am supervised by Prof. Ira Assent, Prof. Abigail Morrison and Dr. Hanno Scharr. 
 
 My current research interests include Data Efficient Learning, Transfer Learning, Multi-Task Learning, Multi-Modal Learning. In general, I am interested in Computer Vision applications to real-world problems.
 
