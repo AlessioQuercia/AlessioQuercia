@@ -52,7 +52,7 @@ My current research interests include Data Efficient Learning, Transfer Learning
 </details>
 -->
 
-Website: [alessioquercia.github.io](https://www.alessioquercia.github.io)
+Website: [alessioquercia.github.io](https://alessioquercia.github.io)
 
 <details>
   <summary markdown="span">Short CV</summary>
