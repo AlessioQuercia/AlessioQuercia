@@ -89,9 +89,9 @@ Website: [alessioquercia.github.io](https://alessioquercia.github.io)
 
   [Google Scholar](https://scholar.google.it/citations?user=CPfJjQgAAAAJ)
   
-  - Quercia A., Yildiz E., Cao Z., Krajsek K., Morrison A., Assent I., Scharr H.: [_"Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks"_](). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
-  - Bangun A.\*, Cao Z.\*, Quercia A.\*, Scharr H., Pfaehler E.: [_"MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)"_](). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
-  - Paul D.R.\*, Quercia A.\*, Fortuin V., Nöh K., Scharr H.: [_"Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation"_](). In: _European Conference on Computer Vision **(ECCV)**_. On Proceedings. IEEE, Milan, Italy (2024).
+  - Quercia A., Yildiz E., Cao Z., Krajsek K., Morrison A., Assent I., Scharr H.: [_"Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks"_](https://arxiv.org/abs/2501.12824). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
+  - Bangun A.\*, Cao Z.\*, Quercia A.\*, Scharr H., Pfaehler E.: [_"MRI Reconstruction with Regularized 3D Diffusion Model (R3DM)"_](https://arxiv.org/abs/2412.18723). In: _Winter Conference on Applications of Computer Vision **(WACV)**_. On Proceedings. IEEE, Tucson, Arizona (2025).
+  - Paul D.R.\*, Quercia A.\*, Fortuin V., Nöh K., Scharr H.: [_"Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation"_](https://arxiv.org/abs/2409.17085). In: _European Conference on Computer Vision **(ECCV)**_. On Proceedings. IEEE, Milan, Italy (2024).
   - Quercia A., Morrison A., Scharr H., Assent I.: [_"SGD Biased towards Early Important Samples for Efficient Training"_](https://ieeexplore.ieee.org/abstract/document/10415731/). In: _IEEE International Conference on Data Mining **(ICDM)**_. On Proceedings. IEEE, Shanghai, China (2023).
   - Quercia A., Frick T., Egli F., Pullen N., Dupanloup I., Tang J., Asif U., Harrer S. and Brunschwiler T.: [_"Preictal onset detection through unsupervised clustering for epileptic seizure prediction"_](https://ieeexplore.ieee.org/abstract/document/9581248). In: _IEEE International Conference on Digital Health **(ICDH)**_. On Proceedings. IEEE, Chicago, USA (2021).
   
