@@ -74,11 +74,12 @@ Website: [alessioquercia.github.io](https://alessioquercia.github.io)
     <summary markdown="span">[10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan</summary>
       Teaching Computer Science Basics to groups of up to 60 undergraduates in laboratory lessons.
   </details> -->
+  - [01.2025 - Current] > Postdoctoral Researcher at the Machine Learning and Data Analytics Institute (IAS-8) in Forschungszentrum Jülich
   - [09.2019 - 07.2021] > Research Intern at IBM Research Zurich
   - [10.2018 - 07.2019] > Tutor of Computer Science Basics at University of Milan
   
   ## Education
-  - [05.2021 - Current] > Ph.D. in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
+  - [05.2021 - 12.2025] > Ph.D. in Computer Science at RWTH Aachen University and Forschungszentrum Jülich
   - [10.2020 - 05.2021] > Ph.D Candidate at Sapienza University of Rome and Research Assistant at WSense S.r.l.
   - [09.2017 - 04.2020] > MSc in Computer Science at University of Milan
   - [09.2013 - 07.2017] > BSc in Computer Science at Sapienza University of Rome
